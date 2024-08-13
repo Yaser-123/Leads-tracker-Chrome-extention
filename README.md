@@ -11,11 +11,10 @@ A simple yet powerful Chrome extension designed to help sales executives and any
 - To install and use this extension, follow these steps:
 
 - Clone this repository to your local machine:
-
+```
 Copy code
-'''
 git clone https://github.com/Yaser-123/Leads-tracker-Chrome-extention.git
-'''
+```
 
 - Open Chrome and navigate to chrome://extensions/.
 

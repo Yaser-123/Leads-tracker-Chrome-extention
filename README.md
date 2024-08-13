@@ -12,8 +12,8 @@ A simple yet powerful Chrome extension designed to help sales executives and any
 
 - Clone this repository to your local machine:
 
-'''
 Copy code
+'''
 git clone https://github.com/Yaser-123/Leads-tracker-Chrome-extention.git
 '''
 
